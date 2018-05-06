@@ -1,0 +1,15 @@
+>>> Warning 202 "D:\Proyecto\rtcc.c" Line 37(18,21): Variable never used:   hrs
+>>> Warning 202 "main.c" Line 13(83,90): Variable never used:   bandera
+>>> Warning 202 "main.c" Line 14(5,8): Variable never used:   lun
+>>> Warning 202 "main.c" Line 14(11,14): Variable never used:   mar
+>>> Warning 202 "main.c" Line 14(17,20): Variable never used:   mie
+>>> Warning 202 "main.c" Line 14(23,26): Variable never used:   jue
+>>> Warning 202 "main.c" Line 14(29,32): Variable never used:   vie
+>>> Warning 202 "main.c" Line 14(35,38): Variable never used:   sab
+>>> Warning 202 "main.c" Line 14(39,42): Variable never used:   dom
+>>> Warning 202 "main.c" Line 23(6,15): Variable never used:   Pgeneral3
+>>> Warning 202 "main.c" Line 24(6,15): Variable never used:   Pgeneral4
+>>> Warning 202 "main.c" Line 112(9,11): Variable never used:   xa
+>>> Warning 202 "main.c" Line 112(15,17): Variable never used:   ya
+      Memory usage:   ROM=28%      RAM=19% - 20%
+      0 Errors,  13 Warnings.

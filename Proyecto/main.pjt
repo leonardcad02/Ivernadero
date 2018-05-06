@@ -1,0 +1,28 @@
+[PROJECT]
+Target=D:\Proyecto\main.hex
+Development_Mode=
+Processor_Text=PIC18F4685
+ToolSuite=CCS
+Processor=0x4685
+[D:\Proyecto\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=D:\Proyecto\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=D:\Proyecto\main
+[Opened Files]
+1=main.c
+2=C:\Users\gandhy\Desktop\SistemaEconomizador.X\Principal.c
+3=rtcc.c
+4=C:\Program Files (x86)\PICC\Drivers\GRAPHICS.C
+5=
+6=
